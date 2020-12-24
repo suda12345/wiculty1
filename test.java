@@ -3,6 +3,6 @@ class test
 	psvm()
 	{
 	}
-
+aas
 }
 
